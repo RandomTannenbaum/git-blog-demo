@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Initial Content Adding more Content Adding some Content from test Branch dddd
-=======
-Initial Content Adding more Content Adding some Content from test Branch ASDF
->>>>>>> bb451e4b596ae81339fa6e5f83599cbe7899a889
